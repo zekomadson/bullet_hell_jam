@@ -26,5 +26,14 @@ Repository for the Bullet Hell Jam (05/10/2024)
 
 
 ## Basic Build:
-- Character Spawn in a new level with other NPCs
-- Character reaching safe zone triggers a 'Level Complete' 
+- Character Spawn in a new level
+- NPCs spawn with you and navigate towards the safe zone. 
+- Character reaching safe zone triggers a 'Level Complete'
+- Turrets shoot at specific spots you need to navigate around
+- Monsters inside track towards the characters.
+
+
+## Functionality:
+- NPCs are the same class as the main character and the monsters hunt those
+- All the monsters are the same type of base class, we can make specific small differences
+- When a monster hits you it removes a specific amount of HP.  
