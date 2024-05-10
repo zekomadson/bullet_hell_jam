@@ -255,3 +255,67 @@ Received Import Request.
 Number of updated assets reloaded before import = 0
 Start importing Assets/Prefabs/Turret.prefab using Guid(e00d205194c7942ebb108d260110257b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1cb2f412ee7594212a7a27280720a955') in 0.005534 seconds 
 Number of asset objects unloaded after import = 8
+========================================================================
+Received Import Request.
+  Time since last request: 5436.397616 seconds.
+  path: Assets/Material/Safe Zone.mat
+  artifactKey: Guid(e26f1e67d37c845a3aaea11ebc51fde1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Material/Safe Zone.mat using Guid(e26f1e67d37c845a3aaea11ebc51fde1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '47f10b59161e7f4c00deb07d052d771b') in 0.029587 seconds 
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 101.562680 seconds.
+  path: Assets/Material/Start Zone.mat
+  artifactKey: Guid(54663b8f813834ab5a4aa2de285dc1b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Material/Start Zone.mat using Guid(54663b8f813834ab5a4aa2de285dc1b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa740ec4ae6123d857a0a26ce9954f0f') in 0.006108 seconds 
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 169.402772 seconds.
+  path: Assets/Prefabs/Start Zone.prefab
+  artifactKey: Guid(865aaf1e2383a4578a5c48a50c16cbce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Prefabs/Start Zone.prefab using Guid(865aaf1e2383a4578a5c48a50c16cbce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '266e5a568e09999d8de741b9146fc35f') in 0.027080 seconds 
+Number of asset objects unloaded after import = 8
+========================================================================
+Received Import Request.
+  Time since last request: 2.323476 seconds.
+  path: Assets/Prefabs/Safe Zone.prefab
+  artifactKey: Guid(9d4a6c6f8aca84d8ab860defca13e59d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Prefabs/Safe Zone.prefab using Guid(9d4a6c6f8aca84d8ab860defca13e59d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b51c57e3a5563f1bd0063779da076c3') in 0.005817 seconds 
+Number of asset objects unloaded after import = 8
+========================================================================
+Received Import Request.
+  Time since last request: 540.468720 seconds.
+  path: Assets/Material/Ground.mat
+  artifactKey: Guid(9e7890c8b12f04d5caab2981e990a4d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Material/Ground.mat using Guid(9e7890c8b12f04d5caab2981e990a4d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6119f1a970f8c90c5d2a471d3edff61d') in 0.030611 seconds 
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000087 seconds.
+  path: Assets/Material/Wall.mat
+  artifactKey: Guid(9fa8473ec8ee5418a93c9768cb070ec5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Material/Wall.mat using Guid(9fa8473ec8ee5418a93c9768cb070ec5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5cb3bd6d4b41622672e071adb469e749') in 0.009292 seconds 
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/Material/Start Zone.mat
+  artifactKey: Guid(54663b8f813834ab5a4aa2de285dc1b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Material/Start Zone.mat using Guid(54663b8f813834ab5a4aa2de285dc1b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7233d9aee1c0ce48f29ac2c0b299f8ee') in 0.006136 seconds 
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/Material/Turret.mat
+  artifactKey: Guid(17ec8352dbb5a410895882558afd725f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Material/Turret.mat using Guid(17ec8352dbb5a410895882558afd725f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd419c63506f5811aa650759784172c74') in 0.003576 seconds 
+Number of asset objects unloaded after import = 1

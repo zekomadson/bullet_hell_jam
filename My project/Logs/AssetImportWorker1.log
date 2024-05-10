@@ -183,3 +183,11 @@ Received Import Request.
 Number of updated assets reloaded before import = 0
 Start importing Assets/Scenes using Guid(c372cee1e1eb348f89900aa8cb718ab9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '510b9f3072304486689fd3a7d8c61cc6') in 0.003998 seconds 
 Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 7408.978877 seconds.
+  path: Assets/Material/Safe Zone.mat
+  artifactKey: Guid(e26f1e67d37c845a3aaea11ebc51fde1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Material/Safe Zone.mat using Guid(e26f1e67d37c845a3aaea11ebc51fde1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6ead73ac1b6d3fd826e528b16d6a3b98') in 0.492823 seconds 
+Number of asset objects unloaded after import = 1
