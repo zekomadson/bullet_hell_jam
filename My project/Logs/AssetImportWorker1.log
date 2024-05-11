@@ -319,3 +319,51 @@ Received Import Request.
 Number of updated assets reloaded before import = 0
 Start importing Assets/Space Assets/Prefabs/Space Forest/SP_Rocks/SP_Rock08.prefab using Guid(f426d5ebe04264a49b91fe36029bc1d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '02fbee3799cf9dd3a81ed090a2a7379d') in 0.005012 seconds 
 Number of asset objects unloaded after import = 14
+========================================================================
+Received Import Request.
+  Time since last request: 66523.618218 seconds.
+  path: Assets/Space Assets/Prefabs/Space Forest/SP_Crystals/SP_Crystal02.prefab
+  artifactKey: Guid(30a26bac0ab527048a8bfb3201f4cf00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Space Assets/Prefabs/Space Forest/SP_Crystals/SP_Crystal02.prefab using Guid(30a26bac0ab527048a8bfb3201f4cf00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b6fef799940ac7d7ccad57b55a00818f') in 0.020571 seconds 
+Number of asset objects unloaded after import = 14
+========================================================================
+Received Import Request.
+  Time since last request: 4.474461 seconds.
+  path: Assets/Space Assets/Prefabs/Space Forest/SP_Plants/SP_Plant02.prefab
+  artifactKey: Guid(5acc9cbd593006541baba3612a661cb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Space Assets/Prefabs/Space Forest/SP_Plants/SP_Plant02.prefab using Guid(5acc9cbd593006541baba3612a661cb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '60ad9974204c378bae14a9b2d44b8e14') in 0.006360 seconds 
+Number of asset objects unloaded after import = 14
+========================================================================
+Received Import Request.
+  Time since last request: 0.000051 seconds.
+  path: Assets/Space Assets/Prefabs/Space Forest/SP_Plants/SP_Plant09.prefab
+  artifactKey: Guid(1e293ccac7f5e0e42a10e3b989ffac87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Space Assets/Prefabs/Space Forest/SP_Plants/SP_Plant09.prefab using Guid(1e293ccac7f5e0e42a10e3b989ffac87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fcfaad2e8ef1793fc64c8c55172370a2') in 0.006409 seconds 
+Number of asset objects unloaded after import = 14
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/Space Assets/Prefabs/Space Forest/SP_Plants/SP_Plant04.prefab
+  artifactKey: Guid(d125ce082a85be34abe8de81c5dc33b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Space Assets/Prefabs/Space Forest/SP_Plants/SP_Plant04.prefab using Guid(d125ce082a85be34abe8de81c5dc33b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c41b7983638d01f3ef30a137f11d8dfb') in 0.004851 seconds 
+Number of asset objects unloaded after import = 14
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/Space Assets/Prefabs/Space Forest/SP_Plants/SP_Plant06.prefab
+  artifactKey: Guid(aba00a3a9f0d5bc4cbd0b1bc12a3c58a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Space Assets/Prefabs/Space Forest/SP_Plants/SP_Plant06.prefab using Guid(aba00a3a9f0d5bc4cbd0b1bc12a3c58a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd605cdd12552edb9e229c522ec66e390') in 0.005231 seconds 
+Number of asset objects unloaded after import = 14
+========================================================================
+Received Import Request.
+  Time since last request: 538.908083 seconds.
+  path: Assets/Material/Turret.mat
+  artifactKey: Guid(17ec8352dbb5a410895882558afd725f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Material/Turret.mat using Guid(17ec8352dbb5a410895882558afd725f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '08823e6ed597f4f2c30d17d7124e05c3') in 0.008001 seconds 
+Number of asset objects unloaded after import = 1
